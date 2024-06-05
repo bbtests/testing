@@ -1,0 +1,19 @@
+a {
+  text-decoration: none;
+}
+
+.home {
+  display: flex;
+  color: red;
+}
+.home > a {
+  color: 0;
+  background-color: purple;
+}
+.home img {
+  border-radius: 50%;
+}
+
+div.header {
+  font-size: 1rem;
+}/*# sourceMappingURL=main.css.map */
