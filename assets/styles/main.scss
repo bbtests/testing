@@ -19,7 +19,7 @@ span {
     a {
         color: green($color: #000000);
         background-color: purple;
-
+        
         & span {
             background-color: yellow;
             border: 5px solid #000000;
@@ -40,7 +40,7 @@ span {
             border-radius: 0;
 
             @media screen and (max-width: 1024px) {
-    
+
                 border-radius: 75%;
             }
         }

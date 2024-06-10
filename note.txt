@@ -1,0 +1,20 @@
+
+
+Variables (using var, let ) => are subject to change / can change but does not necessarily  need to change.
+constants (const) => don't change
+
+
+let x=5, y=6;    // Declaration
+z = x + y;   initialization   
+
+
+Keywords are specials / reserved words or character or group of characters in a programming which are used to perform certain tasks.
+
+
+Data types in JS:
+numeric,string
+
+difference between parameter & argument
+
+
+Naming conventions: Camel case, Pascal, Snake case, Kebab case
