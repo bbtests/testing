@@ -18,3 +18,16 @@ difference between parameter & argument
 
 
 Naming conventions: Camel case, Pascal, Snake case, Kebab case
+
+
+
+BODMAS =>
+
+boolean  => true or false
+
+objects are  basically  made up of key, value pairs. They are used to group data
+
+Arrays are a special type of object in javascript
+
+
+casting (implicit & explicit) or type coercion

@@ -7,11 +7,11 @@ welcome.onclick = () => console.error('Hello World, Welocdlf')
 
 
 
+let sx;
 const x = 32, y = 11;
 let z = 6;
 // let x = 78;
 
-// x = 34;
 
 
 console.log("Hello Ayo", x, z, y);
