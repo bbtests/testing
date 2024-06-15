@@ -24,7 +24,7 @@ function foodie(x) {
 //     console.log(x);
 // }
 
-foodie(z); 
+foodie(z);
 
 
 
@@ -40,4 +40,9 @@ const step_hen_house_road = "hello world"
 const stephen = "hello world"
 
 
+const data1 = 'Hello';
+const data2 = 'World';
 
+
+const rawData = 'Hi' + data1 + ' ' + data2 + '!';
+const rawData2 = `Hi ${data1} ${data2}!`;

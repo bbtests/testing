@@ -31,3 +31,5 @@ Arrays are a special type of object in javascript
 
 
 casting (implicit & explicit) or type coercion
+
+Property are like values of an object while methods are functions attached to an object
